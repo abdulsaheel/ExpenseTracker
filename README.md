@@ -110,8 +110,9 @@ Expense Tracker is designed to help users monitor their spending by automaticall
 ## Screenshots
 
 - **Home Screen:** ![Home Screen](https://i.ibb.co/xJg0ZDT/Screenshot-2024-08-02-07-00-12-750-com-example-expense-tracker.jpg)
-- **Messages Page:** ![Messages Page](assets/screenshots/messages_page.png)
-- **Dashboard:** ![Dashboard](assets/screenshots/dashboard.png)
+- **Messages Page:** ![Messages Page](https://i.ibb.co/j8t8Mgj/Screenshot-2024-08-02-07-00-21-620-com-example-expense-tracker.jpg)
+- **Add Transaction Popup:** ![Add Transaction Popup](https://i.ibb.co/wWfwnDz/Screenshot-2024-08-02-07-00-25-580-com-example-expense-tracker.jpg)
+  
 
 ## API Endpoints
 
