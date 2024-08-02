@@ -109,7 +109,7 @@ Expense Tracker is designed to help users monitor their spending by automaticall
 
 ## Screenshots
 
-- **Home Screen:** ![Home Screen](assets/screenshots/home_screen.png)
+- **Home Screen:** ![Home Screen](https://i.ibb.co/xJg0ZDT/Screenshot-2024-08-02-07-00-12-750-com-example-expense-tracker.jpg)
 - **Messages Page:** ![Messages Page](assets/screenshots/messages_page.png)
 - **Dashboard:** ![Dashboard](assets/screenshots/dashboard.png)
 
